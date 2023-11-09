@@ -6,7 +6,7 @@ and quantum methods for conformer scoring via energy ranking.
 Connected to the manuscript
 
 "A Sobering Assessment of Small-Molecule Force Field Methods for Low Energy Conformer Predictions"
-arXiv: https://arxiv.org/abs/1705.04308
+(arXiv: https://arxiv.org/abs/1705.04308, *Int J Quantum Chem.* 2018;118:e25512. https://doi.org/10.1002/qua.25512)
 
 ## Brief description of files:
 
